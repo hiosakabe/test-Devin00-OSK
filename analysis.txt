@@ -1,0 +1,5 @@
+Analysis of A→C→D→? prediction:
+The model predicted 'H' as the most likely next character with 27.03% probability.
+This closely matches the training data distribution where 'H' appears 28.81% of the time after A→C→D.
+The top 4 predictions (H, F, E, G) match exactly with the 4 characters that follow A→C→D in the training data.
+This indicates the model has successfully learned the patterns in the training data.
